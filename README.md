@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shei-phuler-dol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Shei Phuler Dol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shei-phuler-dol/) |
+| **Get License** | [Official Music Licensing for Shei Phuler Dol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shei-phuler-dol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `52d57774f1901f4024f0e2d5c6cd71bf89d1e64498e88a0be5ad5f5e8907794e` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

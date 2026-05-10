@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shei Phuler Dol
+
+This log tracks the cryptographic history and versioning for the song **Shei Phuler Dol** (shei-phuler-dol).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T08:01:58.500850 | `v1` | `52d57774f1901f4024f0e2d5c6cd71bf89d1e64498e88a0be5ad5f5e8907794e` | `42d137a4212d92b03f84b10c95c14c2ce229291e8d08c596cd141eb48f80105d` | `2026-05-10_shei-phuler-dol-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
